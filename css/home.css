@@ -550,6 +550,7 @@ span{
 }
 
 .project-title{
+    padding: 6rem;
     text-align: center;
     font-size: 4rem;
     font-weight: bold;
@@ -569,7 +570,7 @@ span{
     padding: 0;
 }
 .blog-subtopics{
-    font-size: 4rem;
+    font-size: 2.5rem;
     color: var(--text-color);
     margin-top: 20px;
     text-align: left;
@@ -589,22 +590,10 @@ span{
   }
   
 
-.blog-h3{
+.blog-date{
     font-size: 2rem;
     color: var(--text-color);
     margin-top: 15px;
-}
-
-
-
-.blog-ul{
-    margin: 10px 0;
-    padding-left: 20px;
-    font-size: 1.4rem;
-}
-.blog-point{
-    list-style-type: disc;
-    margin: 5px 0;
 }
 
 /* Hover Effects */
@@ -615,8 +604,6 @@ span{
   .blog-description:hover {
     color: var(--text-color);
   }
-
-
 
 /*contact page*/
 
