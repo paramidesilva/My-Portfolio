@@ -12,12 +12,13 @@
     font-family: 'poppins',sans-serif;
 }
 
-:root{
-    --bg-color:#faf7f7;
-    --second-bg-color:#d6d2d273;
-    --text-color:#3c9c24;
-    --main-color:#214127;
+:root {
+    --bg-color: #faf7f7;
+    --second-bg-color: #d6d2d273;
+    --text-color: #3c9c24;
+    --main-color: #214127;
 }
+
 
 html{
     font-size:62.5%;
